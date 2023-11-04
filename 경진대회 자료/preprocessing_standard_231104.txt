@@ -1,0 +1,201 @@
+country	country_Code
+Afghanistan	1
+Afrique du Sud	2
+Albanie	3
+Alg?rie	4
+Allemagne	5
+Andorre	6
+Angola	7
+Anguilla	8
+Antarctique	9
+Antigua et Barbuda	10
+Antilles n?erlandaises	11
+Arabie Saoudite	12
+Argentine	13
+Arm?nie	14
+Aruba	15
+Australie	16
+Autriche	17
+Azerba?djan	18
+Bahamas	19
+Bahre?n	20
+Bangladesh	21
+Barbade	22
+Belgique	23
+Belize	24
+Benin	25
+Bermude	26
+Bi?lorussie	27
+Bolivie	28
+Bosnie et Herzegovine	29
+Botswana	30
+Br?sil	31
+Brunei Darussalam	32
+Bulgarie	33
+Burkina Faso	34
+Cambodge	35
+Cameroun	36
+Canada	37
+Chad	38
+Chili	39
+Chine	40
+Chypre	41
+Colombie	42
+Congo	43
+Cor?e du Nord	44
+Cor?e du Sud	45
+Costa Rica	46
+Cote D'Ivoire	47
+Croatie	48
+Cuba	49
+Danemark	50
+Djibouti	51
+Dominique	52
+Egypte	53
+?mirats arabes unis	54
+?quateur	55
+?rythr?e	56
+Espagne	57
+Estonie	58
+Etats-Unis	59
+?thiopie	60
+Fidji	61
+Finlande	62
+France	63
+Gabon	64
+Gambie	65
+G?orgie	66
+G?orgie du Sud / Iles Sandwich	67
+Ghana	68
+Gibraltar	69
+Gr?ce	70
+Grenade	71
+Guadeloupe	72
+Guam	73
+Guatemala	74
+Guernsey	75
+Guin?e	76
+Guyana	77
+Guyane	78
+Haiti	79
+Honduras	80
+Hong Kong	81
+Hongrie	82
+?le Bouvet	83
+?le de Man	84
+?le Norfolk	85
+?les Canaries	86
+Iles Cayman	87
+?les F?ro?	88
+?les Malouines	89
+Iles mineures ?loign?es des ?tats-Unis	90
+?les Turques-et-Ca?ques	91
+?les Vierges (U.S.)	92
+?les Vierges britanniques	93
+Inde	94
+Indon?sie	95
+Irak	96
+Iran	97
+Irlande	98
+Islande	99
+Israel	100
+Italie	101
+Jamaique	102
+Japon	103
+Jersey	104
+Jordanie	105
+Kazakhstan	106
+Kenya	107
+Kirghizistan	108
+Kiribati	109
+Kowait	110
+Laos	111
+Le Salvador	112
+Lettonie	113
+Liban	114
+Libye	115
+Liechtenstein	116
+Lituanie	117
+Luxembourg	118
+Macau	119
+Mac?doine	120
+Madagascar	121
+Malaisie	122
+Maldives	123
+Mali	124
+Malte	125
+Maroc	126
+Martinique	127
+Maurice	128
+Mauritanie	129
+Mayotte	130
+Mexique	131
+Moldavie	132
+Monaco	133
+Mongolie	134
+Myanmar	135
+Namibie	136
+Nepal	137
+Nicaragua	138
+Niger	139
+Nigeria	140
+Norv?ge	141
+Nouvelle Cal?donie	142
+Nouvelle Z?lande	143
+Oman	144
+Ouganda	145
+Pakistan	146
+Palau	147
+Panama	148
+Paraguay	149
+Pays-Bas	150
+P?rou	151
+Philippines	152
+Pologne	153
+Polyn?sie Fran?aise	154
+Portugal	155
+Puerto Rico	156
+Qatar	157
+R?publique centrafricaine	158
+R?publique dominicaine	159
+R?publique tch?que	160
+R?union	161
+Roumanie	162
+Royaume-Uni	163
+Russie	164
+Rwanda	165
+Saint Kitts et Nevis	166
+Saint Vincent et les Grenadines	167
+Sainte Lucie	168
+Samoa	169
+Samoa am?ricaines	170
+S?n?gal	171
+Serbie	172
+Singapour	173
+Slovaquie	174
+Slov?nie	175
+Sri Lanka	176
+St Barth?l?my	177
+Su?de	178
+Suisse	179
+Suriname	180
+Svalbard et Jan Mayen Islands	181
+Swaziland	182
+Syrie	183
+Taiwan	184
+Tajikistan	185
+Tanzanie	186
+Thailande	187
+Togo	188
+Trinidad et Tobago	189
+Tunisie	190
+Turquie	191
+Ukraine	192
+Uruguay	193
+Uzbekistan	194
+Vanuatu	195
+Venezuela	196
+Viet Nam	197
+Zaire	198
+Zambie	199
+Zimbabwe	200
